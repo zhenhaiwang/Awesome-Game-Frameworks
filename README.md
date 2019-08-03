@@ -12,4 +12,4 @@
   - [Loxodon-Framework](https://github.com/cocowolf/loxodon-framework) - MVVM framework for Unity3D (C# & xLua)
   - [UGUI-MVVM](https://github.com/jbruening/ugui-mvvm) - Unity UGUI MVVM databinding via the standard IXChanged interfaces used in WPF
   - [Unity-UI-Framework](https://github.com/MrNerverDie/Unity-UI-Framework) - A simple UI framework based on UGUI
-  - [Knight](https://github.com/winddyhe/knight) - A game framework based on Unity3D engine. It includes a complete assetbundle manager, a c# hotfix module based on ILRuntime, a UI module based on MVVM, and other basic functions support
+  - [Knight](https://github.com/winddyhe/knight) - A game framework based on Unity3D engine. It includes a complete assetbundle manager, a C# hotfix module based on ILRuntime, a UI module based on MVVM, and other basic functions support

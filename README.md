@@ -6,3 +6,4 @@
   - [GameFramework](https://github.com/EllanJiang/GameFramework) - A game framework that encapsulates commonly used modules during development
   - [QFramework](https://github.com/liangxiegame/QFramework) - A Progressive and RAD framework
   - [HGFramework](https://github.com/zhutaorun/HGFramework) - Unity3D Client C# framework
+  - [HTFramework](https://github.com/SaiTingHu/HTFramework) - Unity3D Client C# lightweight framework

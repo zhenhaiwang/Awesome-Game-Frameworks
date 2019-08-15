@@ -11,6 +11,7 @@
   - [HTFramework](https://github.com/SaiTingHu/HTFramework)
   - [ColaFramework](https://github.com/XINCGer/ColaFrameWork)
   - [MyUnityFramework](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
+  - [UnityFramework](https://github.com/traggett/UnityFramework) - Framework for Unity that includes support for xml based NodeGraphs and timeline/event statemachines together with fancy editors for both
   - [Loxodon-Framework](https://github.com/cocowolf/loxodon-framework) - MVVM framework for Unity3D (C# & xLua)
   - [UGUI-MVVM](https://github.com/jbruening/ugui-mvvm) - Unity UGUI MVVM databinding via the standard IXChanged interfaces used in WPF
   - [Unity-UI-Framework](https://github.com/MrNerverDie/Unity-UI-Framework) - A simple UI framework based on UGUI

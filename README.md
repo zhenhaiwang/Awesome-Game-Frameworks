@@ -10,9 +10,9 @@
   - [LuaFramework_UGUI](https://github.com/jarjin/LuaFramework_UGUI) - The Unity Lua framework for UGUI
   - [GameFramework](https://github.com/EllanJiang/GameFramework) - A game framework that encapsulates commonly used modules during development
   - [QFramework](https://github.com/liangxiegame/QFramework) - A Progressive and RAD framework
-  - [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - A Progressive and RAD framework
+  - [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - A powerful unity3d game workflow
   - [MotionFramework](https://github.com/gmhevinci/MotionFramework) - A unity3d game framework
-  - [HGFramework](https://github.com/zhutaorun/HGFramework) - A powerful unity3d game workflow
+  - [HGFramework](https://github.com/zhutaorun/HGFramework)
   - [HTFramework](https://github.com/SaiTingHu/HTFramework)
   - [ColaFramework](https://github.com/XINCGer/ColaFrameWork)
   - [MyUnityFramework](https://github.com/GaoKaiHaHa/MyUnityFrameWork)

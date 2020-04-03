@@ -20,3 +20,5 @@
   - [Loxodon-Framework](https://github.com/cocowolf/loxodon-framework) - MVVM framework for Unity3D (C# & xLua)
   - [UGUI-MVVM](https://github.com/jbruening/ugui-mvvm) - Unity UGUI MVVM databinding via the standard IXChanged interfaces used in WPF
   - [Unity-UI-Framework](https://github.com/MrNerverDie/Unity-UI-Framework) - A simple UI framework based on UGUI
+  - [EZUnity](https://github.com/EZhex1991/EZUnity)
+  - [FoxGameToolKit](https://github.com/FoxGame825/FoxGameToolKit)

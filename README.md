@@ -8,6 +8,7 @@
   - [Zero](https://github.com/jinglikeblue/Zero)
   - [Autoya](https://github.com/sassembla/Autoya) - Small, thin framework for Unity which contains essential game features
   - [LuaFramework_UGUI](https://github.com/jarjin/LuaFramework_UGUI) - The Unity Lua framework for UGUI
+  - [LuaFramework_UGUI_V2](https://github.com/jarjin/LuaFramework_UGUI_V2) - The Unity Lua framework for UGUI with lockstep demo
   - [GameFramework](https://github.com/EllanJiang/GameFramework) - A game framework that encapsulates commonly used modules during development
   - [QFramework](https://github.com/liangxiegame/QFramework) - A Progressive and RAD framework
   - [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - A powerful unity3d game workflow
@@ -18,6 +19,7 @@
   - [MyUnityFramework](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
   - [UnityFramework](https://github.com/traggett/UnityFramework) - Framework for Unity that includes support for xml based NodeGraphs and timeline/event statemachines together with fancy editors for both
   - [Loxodon-Framework](https://github.com/cocowolf/loxodon-framework) - MVVM framework for Unity3D (C# & xLua)
+  - [FinalFramework](https://github.com/jarjin/FinalFramework)
   - [UGUI-MVVM](https://github.com/jbruening/ugui-mvvm) - Unity UGUI MVVM databinding via the standard IXChanged interfaces used in WPF
   - [Unity-UI-Framework](https://github.com/MrNerverDie/Unity-UI-Framework) - A simple UI framework based on UGUI
   - [EZUnity](https://github.com/EZhex1991/EZUnity)

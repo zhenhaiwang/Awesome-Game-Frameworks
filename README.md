@@ -5,7 +5,7 @@
   - [KBEngine](https://github.com/kbengine/kbengine) - A MMO game engine of server
   - [ServerFramework](https://github.com/zhangqi-ulua/ServerFramework) - Java game framework of server
   - [Knight](https://github.com/winddyhe/knight) - A game framework based on Unity3D engine. It includes a complete assetbundle manager, a C# hotfix module based on ILRuntime, a UI module based on MVVM, and other basic functions support
-  - [Zero](https://github.com/jinglikeblue/Zero)
+  - [Zero](https://github.com/jinglikeblue/Zero) - Unity中的游戏开发框架，为游戏开发核心问题提供轻量高效的解决方案
   - [Autoya](https://github.com/sassembla/Autoya) - Small, thin framework for Unity which contains essential game features
   - [LuaFramework_UGUI](https://github.com/jarjin/LuaFramework_UGUI) - The Unity Lua framework for UGUI
   - [LuaFramework_UGUI_V2](https://github.com/jarjin/LuaFramework_UGUI_V2) - The Unity Lua framework for UGUI with lockstep demo
@@ -13,17 +13,21 @@
   - [QFramework](https://github.com/liangxiegame/QFramework) - A Progressive and RAD framework
   - [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core) - A powerful unity3d game workflow
   - [MotionFramework](https://github.com/gmhevinci/MotionFramework) - A unity3d game framework
-  - [HGFramework](https://github.com/zhutaorun/HGFramework)
-  - [HTFramework](https://github.com/SaiTingHu/HTFramework)
-  - [ColaFramework](https://github.com/XINCGer/ColaFrameWork)
-  - [MyUnityFramework](https://github.com/GaoKaiHaHa/MyUnityFrameWork)
+  - [HGFramework](https://github.com/zhutaorun/HGFramework) - Unity客户端框架
+  - [HTFramework](https://github.com/SaiTingHu/HTFramework) - 基于Unity的一个快速开发框架，集需求模块化、代码重用性、实用便捷性、功能高内聚、统一编码规范、可扩展性、可维护性、可通用性、可插拨性为一体，并提供持续维护、升级
+  - [ColaFramework](https://github.com/XINCGer/ColaFrameWork) - 一款简洁的MVC架构的Unity客户端框架。支持Lua开发和资源热更新，自带版本管理和简易服务器。适合新手入门学习或用于中小团队开发
+  - [MyUnityFramework](https://github.com/GaoKaiHaHa/MyUnityFrameWork) - 我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统等
   - [UnityFramework](https://github.com/traggett/UnityFramework) - Framework for Unity that includes support for xml based NodeGraphs and timeline/event statemachines together with fancy editors for both
   - [Loxodon-Framework](https://github.com/cocowolf/loxodon-framework) - MVVM framework for Unity3D (C# & xLua)
-  - [FinalFramework](https://github.com/jarjin/FinalFramework)
+  - [FinalFramework](https://github.com/jarjin/FinalFramework) - 为独立游戏而生，最后的Gameplay游戏框架
   - [UGUI-MVVM](https://github.com/jbruening/ugui-mvvm) - Unity UGUI MVVM databinding via the standard IXChanged interfaces used in WPF
   - [Unity-UI-Framework](https://github.com/MrNerverDie/Unity-UI-Framework) - A simple UI framework based on UGUI
-  - [EZUnity](https://github.com/EZhex1991/EZUnity)
-  - [FoxGameToolKit](https://github.com/FoxGame825/FoxGameToolKit)
-  - [Lemon](https://github.com/onelei/Lemon)
+  - [EZUnity](https://github.com/EZhex1991/EZUnity) - Unity3D工具集，API二次封装，编辑器扩展
+  - [FoxGameToolKit](https://github.com/FoxGame825/FoxGameToolKit) - Unity模块化功能包，包含资源打包/加载，UI管理，消息派发等
+  - [Lemon](https://github.com/onelei/Lemon) - Unity游戏开发框架，包含常用UI组件、UIManager管理、自定义日志显示、行为树框架等
   - [MO.Framework](https://github.com/mmogdeveloper/MO.Framework) - Orleans-Dotnetty game server framework that includes support for socket, websocket, http and Unity3D client demo
   - [TinaX](https://github.com/yomunsam/TinaX) - A simple, complete, out-of-the-box development framework based on the Unity engine. TinaX's goal is to be a framework that adapts to different project and team sizes
+  - [XGame](https://github.com/monitor1394/XGame) - 一款提供各种主流技术方案的Unity手游框架。包含服务端、客户端等模块，采用C++、C#、Lua语言开发
+  - [MyFramework](https://github.com/ZHOURUIH/MyFramework) - 一个在Unity上使用的网络游戏客户端开发框架，为Unity所有使用方式提供完善的封装和管理，只需要专注于游戏逻辑的编写
+  - [uMVVM](https://github.com/MEyes/uMVVM) - A simple Unity MVVM framework
+  - [Nice-Lua](https://github.com/Justin-sky/Nice-Lua) - 基于xlua的MVVM框架，支持Addressables，统一渲染管线等Unity新特性

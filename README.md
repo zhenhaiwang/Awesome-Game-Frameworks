@@ -30,4 +30,5 @@
   - [XGame](https://github.com/monitor1394/XGame) - 一款提供各种主流技术方案的Unity手游框架。包含服务端、客户端等模块，采用C++、C#、Lua语言开发
   - [MyFramework](https://github.com/ZHOURUIH/MyFramework) - 一个在Unity上使用的网络游戏客户端开发框架，为Unity所有使用方式提供完善的封装和管理，只需要专注于游戏逻辑的编写
   - [uMVVM](https://github.com/MEyes/uMVVM) - A simple Unity MVVM framework
+  - [cscore](https://github.com/cs-util-com/cscore) - A lightweight library providing commonly used helpers & patterns for both your pure C# and Unity projects
   - [Nice-Lua](https://github.com/Justin-sky/Nice-Lua) - 基于xlua的MVVM框架，支持Addressables，统一渲染管线等Unity新特性
